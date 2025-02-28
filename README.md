@@ -15,7 +15,7 @@ Key components to be fulfilled:
 1. Loading and Preprocessing 
 ●	 Load the dataset and perform necessary preprocessing steps. Dataset has been included in this repository. I have explained the steps in the code itself using comments whereever necessary.
    
-2. Model Implementation (10 marks)
+2. Model Implementation 
 ●	 Implement the following five regression algorithms:
 1) Linear Regression
 2) Decision Tree Regressor
